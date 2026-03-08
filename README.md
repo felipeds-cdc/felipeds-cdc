@@ -1,25 +1,60 @@
-## Sejam bem vindos!
+# Olá, eu sou Felipe Diassis 👋
 
-<div style="display: inline-block" height="200%" widht="200%">
-  <a href="https://github.com/felipeds-cdc">
-  <img  src="https://github-readme-stats.vercel.app/api?username=felipeds-cdc&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeds-cdc&layout=compact&langs_count=16&theme=swift"/>
-</div>
-    
-##
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-  
-##
-  
-<div>
-  <a href = "mailto:felipeds@uni9.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/felipe-d-836343371/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+🎓 Estudante de Ciência da Computação na UNINOVE  
+🔐 Foco em Cibersegurança — Pentest & Red Team  
+🐧 Ambiente principal: Kali Linux  
+📍 São Paulo, Brasil  
+
+---
+
+## 🧠 Sobre mim
+
+Sou apaixonado por entender como sistemas falham antes que os adversários o façam.
+Estudo segurança ofensiva de forma autodidata, com foco em pentest, análise de
+vulnerabilidades e testes de rede. Busco minha primeira oportunidade como
+estagiário ou analista júnior em Segurança da Informação.
+
+---
+
+## 🛠️ Ferramentas & Tecnologias
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white)
+
+---
+
+## 📜 Certificações
+
+| Certificação | Emissor |
+|---|---|
+| Introduction to CIP | OPSWAT Academy |
+| Cybersecurity Essentials | Linux Foundation |
+| Conceitos Básicos de Redes | Cisco Networking Academy |
+| Introdução ao Cenário de Ameaças | Fortinet |
+
+---
+
+## 🔬 Laboratórios & Plataformas
+
+| Plataforma | Status |
+|---|---|
+| 🟥 HackTheBox | Ativo |
+| 🟩 TryHackMe | Ativo |
+| 🟦 Let's Defend | Ativo |
+
+---
+
+## 📂 Projetos em Desenvolvimento
+
+> Em breve: writeups de CTFs, scripts Python de automação e anotações de estudo
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/felipeds1934)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.ds@uni9.edu.br)
